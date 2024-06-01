@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "website Batikpedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZAHIRZ4K4RI4/Apprest.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "zahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZAHIRZ4K4RI4/Apprest/issues"
+  },
+  "homepage": "https://github.com/ZAHIRZ4K4RI4/Apprest#readme"
+}
